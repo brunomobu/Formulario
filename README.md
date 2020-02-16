@@ -8,3 +8,7 @@ cadastro de usuários para acesso a plataforma fictícia.
 - username
 - senha
 - confirmação de senha
+
+## release
+- formulario metodo get direcionado para index.html
+- query parameters nas inputs
